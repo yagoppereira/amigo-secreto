@@ -26,13 +26,14 @@ Adicione os nomes dos amigos:
 
 Digite os nomes dos amigos no campo de entrada e clique no botão "Adicionar".
 O nome será adicionado à lista de amigos.
-Realize o sorteio:
 
+Realize o sorteio:
 Após adicionar pelo menos 2 amigos, clique no botão "Sortear amigo".
 O resultado aparecerá logo abaixo, mostrando quem tirou quem.
 Aproveite o sorteio!
 
 Exemplo de Uso
+
 Adicione os nomes:
 
 João
