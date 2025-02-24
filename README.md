@@ -46,6 +46,7 @@ O sistema exibirá o seguinte:
 João tirou Maria
 Maria tirou Ana
 Ana tirou João
+
 Estrutura de Arquivos
 index.html: Arquivo principal do HTML que contém a estrutura da página.
 style.css: Arquivo CSS para estilizar a página.
