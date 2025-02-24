@@ -36,16 +36,16 @@ Exemplo de Uso
 
 Adicione os nomes:
 
-João
-Maria
-Ana
+João,
+Maria,
+Ana.
 Clique em "Sortear amigo".
 
 O sistema exibirá o seguinte:
 
-João tirou Maria
-Maria tirou Ana
-Ana tirou João
+João tirou Maria,
+Maria tirou Ana,
+Ana tirou João.
 
 Estrutura de Arquivos
 index.html: Arquivo principal do HTML que contém a estrutura da página.
